@@ -76,7 +76,7 @@ functions written in the project.
 * **11. 98 Battery Street, the OG**
   * [11-print_to_98.c](./11-print_to_98.c): C function that prints all natural numbers
   from an input to `98` followed by a new line, as follows:
-    * Prototype: void print_to_98(int n);
+    * Prototype: `void print_to_98(int n);`
     * Numbers are separated by a comma followed by a space.
     * Numbers are printed in order.
     * Input represents the number to begin counting from.
