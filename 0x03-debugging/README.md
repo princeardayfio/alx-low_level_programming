@@ -9,7 +9,7 @@ In the project, I learned about debugging, and some methods od debugging manuall
 
 ## Header File :file_folder:
 
-* .[main.h].(./main.h): Header file containing prototypes for all functions written in the project. 
+* [main.h](./main.h): Header file containing prototypes for all functions written in the project. 
 
 
 | File                     | Prototype                        |
