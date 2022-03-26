@@ -1,6 +1,6 @@
 # C - Debugging 
 
-In this project, I learned about debugging, and some methods od debugging manually and also how to read error messages.
+In this project, I learned about debugging, and some methods of debugging manually and also how to read error messages.
 
 
 ## Helper File :ledger:
@@ -27,7 +27,7 @@ In this project, I learned about debugging, and some methods od debugging manual
 * **1. Like, comment, subscribe**
   * [1-main.c](./1-main.c): C program that causes an output to go into an infinite loop.
 
-* **2.0> 972?**
+* **2. 0> 972?**
   * [2-largest_number.c](./2-largest_number.c): This program prints the largest of three integers.
 
 
