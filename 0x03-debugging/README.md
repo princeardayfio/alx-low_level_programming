@@ -1,6 +1,6 @@
 # C - Debugging 
 
-In the project, I learned about debugging, and some methods od debugging manually and also how to read error messages.
+In this project, I learned about debugging, and some methods od debugging manually and also how to read error messages.
 
 
 ## Helper File :ledger:
