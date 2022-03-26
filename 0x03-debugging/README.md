@@ -5,7 +5,7 @@ In the project, I learned about debugging, and some methods od debugging manuall
 
 ## Helper File :ledger:
 
-* .[_putchar.c].(./0-putchar.c): C function that writes a character to `stdout`.
+* [0-main.c](./0-main.c): C function that prints if integer is positive or negative
 
 ## Header File :file_folder:
 
