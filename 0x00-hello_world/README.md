@@ -39,7 +39,7 @@ In this project, I learned about C-programming and the basics.
 
  * **6. Size is not grandeur, and territory does not make a nation**
    * [6-size.c](./6-size.c): A C program that prints the size of various types on the computer it is sompiled and run on. 
-   * Packages needed - `libc6-dev-i36` to test the `-m32` `gcc` option
+   * Packages needed: `libc6-dev-i36` to test the `-m32` `gcc` option
 
  * **7. Intel**
    * [100-intel](./100-intel): A script that generates assembly code (Intel syntax) of a C code and save it in an output file. 
