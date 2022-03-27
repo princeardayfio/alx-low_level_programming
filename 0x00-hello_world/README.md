@@ -17,3 +17,11 @@ In this project, I learned about C-programming and the basics.
    * [0-preprocessor](./0-preprocessor): A script that runs a C file through the processor and saves the result into another file.
    * The C file is saved in the variable `$CFILE`
    * The output is saved in the fie `c` 
+
+ * **1. Compiler**
+   * [1-compiler](./1-compiler): A script that compiles a C file but does not link. 
+
+
+ * **2. Assembler**
+   * [2-assembler](./2-assembler)A script that generates the assembly code of a C code and save it in an output file. 
+
