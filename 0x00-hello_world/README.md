@@ -14,6 +14,6 @@ In this project, I learned about C-programming and the basics.
 ## Tasks :page_with_curl:
 
  * **0. Preprocessor**
- [0-preprocessor](./0-preprocessor): A script that runs a C file through the processor and saves the result into another file.
- * The C file is saved in the variable `$CFILE`
- * The output is saved in the fie `c` 
+   * [0-preprocessor](./0-preprocessor): A script that runs a C file through the processor and saves the result into another file.
+   * The C file is saved in the variable `$CFILE`
+   * The output is saved in the fie `c` 
