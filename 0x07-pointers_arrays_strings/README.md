@@ -1,6 +1,6 @@
 # C - Even more pointers, arrays and strings
 
-In this project, I learned about pointers, multidimensional arrays, common C standard library fucntions and how to use them to manipulate strings. 
+In this project, I learned about pointers, multidimensional arrays, common C standard library functions and how to use them to manipulate strings. 
 
 
 ## Header File :file_folder:
