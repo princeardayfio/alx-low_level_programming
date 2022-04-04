@@ -1,3 +1,3 @@
-<h1>This is a repo for low level programming</h1>
+## C - Low Level Programming 
 
-Updating readme
+To be continued...
