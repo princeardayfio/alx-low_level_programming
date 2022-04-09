@@ -9,3 +9,6 @@ This is the repo for the low level programming projects.
 
 * **0x01-variables_if_else_while**
   * [Variables, If Else, While](./0x01-variables_if_else_while): Understanding variables and loops. 
+
+* **0x02-functions_nested_loops**
+  * [Functions, nested loops](./0x02-functions_nested_loops): Understanding functions and nested loops.
