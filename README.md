@@ -12,3 +12,6 @@ This is the repo for the low level programming projects.
 
 * **0x02-functions_nested_loops**
   * [Functions, nested loops](./0x02-functions_nested_loops): Understanding functions and nested loops.
+
+* **0x03-debugging**
+  * [Debugging](./0x03-debugging)- Learned about the process of debugging and rubber duck debugging and the use of tools like `gdb`. 
