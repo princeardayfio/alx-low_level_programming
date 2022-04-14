@@ -1,8 +1,5 @@
 ## C - Low Level Programming 
 
-<<<<<<< HEAD
-To be continued...
-=======
 This is the repo for the low level programming projects. 
 
 ## Tasks :page_with_curl:
@@ -17,5 +14,4 @@ This is the repo for the low level programming projects.
   * [Functions, nested loops](./0x02-functions_nested_loops): Understanding functions and nested loops.
 
 * **0x03-debugging**
-  * [Debugging](./0x03-debugging)- Learned about the process of debugging and rubber duck debugging and the use of tools like `gdb`. 
->>>>>>> a34d82058cdb6154a8c1ecbc7735b173f94c80af
+  * [Debugging](./0x03-debugging)- Learned about the process of debugging and rubber duck debugging and the use of tools like `gdb`.
