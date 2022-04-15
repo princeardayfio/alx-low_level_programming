@@ -15,3 +15,9 @@ This is the repo for the low level programming projects.
 
 * **0x03-debugging**
   * [Debugging](./0x03-debugging)- Learned about the process of debugging and rubber duck debugging and the use of tools like `gdb`.
+
+* **0x04-more_functions_nested_loops**
+  * [More functions, nested loops](./0x04-more_functions_nested_loops) - Learned about nested loops and how to use them, the difference between decalaration and a definition of a function, prototypes and scope of variables.
+
+
+
