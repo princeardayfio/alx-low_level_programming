@@ -19,5 +19,8 @@ This is the repo for the low level programming projects.
 * **0x04-more_functions_nested_loops**
   * [More functions, nested loops](./0x04-more_functions_nested_loops) - Learned about nested loops and how to use them, the difference between decalaration and a definition of a function, prototypes and scope of variables.
 
+* **0x05-pointers_arrays_strings**
+  * [Pointers, arrays and strings](./0x05-pointers_arrays_strings)- Learned about pointers, array sand data structures
+
 
 
