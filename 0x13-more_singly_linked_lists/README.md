@@ -80,3 +80,10 @@ and functions written for the project.
   the data (`n`) of a `listint_t` linked list.
     * If the linked list is empty - returns `0`.
     * Otherwise - returns the sum of all the data (`n`).
+
+* **9. Insert**
+  * [9-insert_nodeint.c](./9-insert_nodeint.c): C function that inserts a new node to
+  a `listint_t` linked list at a given position.
+    * If it is not possible to add the new node at index `idx`, or the function
+    fails - returns `NULL`.
+    * Otherwise - returns the address of the new node.
