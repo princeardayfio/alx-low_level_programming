@@ -74,3 +74,9 @@ and functions written for the project.
   of a `listint_t` linked list.
     * If the node does not exist - returns `NULL`.
     * Otherwise - returns the located node.
+
+* **8. Sum list**
+  * [8-sum_listint.c](./8-sum_listint.c): C function that returns the sum of all
+  the data (`n`) of a `listint_t` linked list.
+    * If the linked list is empty - returns `0`.
+    * Otherwise - returns the sum of all the data (`n`).
