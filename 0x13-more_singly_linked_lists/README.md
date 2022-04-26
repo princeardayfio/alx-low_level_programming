@@ -57,3 +57,8 @@ and functions written for the project.
 * **4. Free list**
   * [4-free_listint.c](./4-free_listint.c): C function that frees a `listint_t`
   linked list.
+
+* **5. Free**
+  * [5-free_listint2.c](./5-free_listint2.c): C function that frees a
+  `listint_t` linked list.
+    * Sets the `head` to `NULL`.
