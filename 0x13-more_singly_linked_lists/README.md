@@ -68,3 +68,9 @@ and functions written for the project.
   a `listint_t` linked list.
     * If the linked list is empty - returns `0`.
     * Otherwise - returns the head node's data (`n`).
+
+* **7. Get node at index**
+  * [7-get_nodeint.c](./7-get_nodeint.c): C function that locates a given node
+  of a `listint_t` linked list.
+    * If the node does not exist - returns `NULL`.
+    * Otherwise - returns the located node.
