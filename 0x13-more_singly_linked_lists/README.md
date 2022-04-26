@@ -62,3 +62,9 @@ and functions written for the project.
   * [5-free_listint2.c](./5-free_listint2.c): C function that frees a
   `listint_t` linked list.
     * Sets the `head` to `NULL`.
+
+* **6. Pop**
+  * [6-pop_listint.c](./6-pop_listint.c): C function that deletes the head node of
+  a `listint_t` linked list.
+    * If the linked list is empty - returns `0`.
+    * Otherwise - returns the head node's data (`n`).
