@@ -25,4 +25,14 @@ All files compiled on Ubuntu 20.04 LTS using `gcc`, using the options `-Wall -We
 * **0. Tread lightly, she is near**
   * [0-read_textfile.c](./0-read_textfile.c): A function that reads a text file and prints it to the `POSIX` standard output.
 
-* **Under the snow**  
+* **1. Under the snow**  
+  * [1-create_file.c](./1-create_file.c): A function that creates a file
+
+* **2. Speak gently, she can hear**
+  * [2-append_text_to_file.c](./2-append_text_to_file.c): A function that appends text at the end of a file
+
+* **3. cp**
+  * [3-cp.c](./3-cp.c): A program that copies the content of a file to another file. 
+
+* **4. elf**
+  * [100-elf_header.c](./100-elf_header.c): A program that displays the information contained in the `ELF` header at the start of an `ELF` file.
